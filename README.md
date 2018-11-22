@@ -179,4 +179,6 @@ npm run build 项目打包
 > 注意的知识点
 
 - 公共函数的封装可以参考**src-api-config.js**，看它如何调用的
-
+- 首页tab栏切换，需要在路由js中加入{path: '/',redirect: '/one'}
+- vue-lazyload图片懒加载的使用
+- loading 基础组件的封装

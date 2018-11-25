@@ -182,3 +182,6 @@ npm run build 项目打包
 - 首页tab栏切换，需要在路由js中加入{path: '/',redirect: '/one'}
 - vue-lazyload图片懒加载的使用
 - loading 基础组件的封装
+- ${}相当于字符串拼接，{}里面是变量，components-singer-singer
+- 子路由的配置，需要在父页面写入router-view
+- 转场动画（页面跳转的动画transition）。components-singer-detail-singer-detail

@@ -185,3 +185,7 @@ npm run build 项目打包
 - ${}相当于字符串拼接，{}里面是变量，components-singer-singer
 - 子路由的配置，需要在父页面写入router-view
 - 转场动画（页面跳转的动画transition）。components-singer-detail-singer-detail
+
+- vuex参考store里面的写法
+- import createLogger from 'vuex/dist/logger' 可以在控制台实时查看vuex数据变化
+- import * as types from 'tools'的写法不错

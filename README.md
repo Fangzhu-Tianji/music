@@ -189,3 +189,11 @@ npm run build 项目打包
 - vuex参考store里面的写法
 - import createLogger from 'vuex/dist/logger' 可以在控制台实时查看vuex数据变化
 - import * as types from 'tools'的写法不错
+
+动画
+
+mixin
+
+activated
+
+refresh   music-list

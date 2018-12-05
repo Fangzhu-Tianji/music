@@ -190,10 +190,5 @@ npm run build 项目打包
 - import createLogger from 'vuex/dist/logger' 可以在控制台实时查看vuex数据变化
 - import * as types from 'tools'的写法不错
 
-动画
-
-mixin
-
-activated
-
-refresh   music-list
+- mixin可以复用组件功能，components-music-list-music-list
+- js动画插件"create-keyframe-animation"，components-play-play
